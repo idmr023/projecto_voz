@@ -32,3 +32,9 @@ El modelo utilizado es `ECAPA-TDNN` + `SVM`, desarrollado por el repositorio de 
 pip install git+https://github.com/griko/voice-gender-classification.git
 
 pip install sounddevice scipy git+https://github.com/griko/voice-gender-classification.git
+
+pip install SpeechRecognition
+
+pip install pyaudio
+
+pip install pyttsx3
